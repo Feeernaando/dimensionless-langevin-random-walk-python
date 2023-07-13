@@ -1,0 +1,1 @@
+plot 'Random_Walk.txt' w l lt rgb 'red' lw 2
